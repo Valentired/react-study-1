@@ -1,13 +1,15 @@
 .nav {
 	grid-area: navbar;
 	background-color: #13ce66;
+	padding: 20px;
 }
 
-.item {
+.nav_link {
 	display: block;
 	color: #fff;
+	text-decoration: none;
 }
 
-.item.active {
+.nav_link.active {
 	color: rgb(191, 221, 19);
 }

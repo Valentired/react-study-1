@@ -6,7 +6,7 @@ const Profile = () => {
 	return (
 		<div>
 			<div>
-				<img src="https://belltur.ru/images/STRANI/Velicobritania/33f6d3aa44546327af48628f7df10cb4.jpg" />
+				<img className={s.profileBg} src="https://belltur.ru/images/STRANI/Velicobritania/33f6d3aa44546327af48628f7df10cb4.jpg" />
 			</div>
 			<div>ava + desc</div>
 			<MyPosts />
