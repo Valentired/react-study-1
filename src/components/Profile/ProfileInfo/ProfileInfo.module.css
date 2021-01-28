@@ -1,0 +1,15 @@
+
+.profileBg {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.descriptionInner {
+    padding: 10px;
+}
+
+.newPost {
+    padding: 10px;
+}
